@@ -1,1 +1,1 @@
-release: rails bd:mirgrate
+release: rails db:migrate
